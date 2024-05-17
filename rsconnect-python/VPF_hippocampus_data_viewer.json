@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/home/pfaffenrot/github/VPF_hippocampus_data_viewer",
+        "app_url": "https://viktor-pfaffenrot.shinyapps.io/hippocampus_data_viewer/",
+        "app_id": 12021378,
+        "app_guid": null,
+        "title": "hippocampus_data_viewer",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}

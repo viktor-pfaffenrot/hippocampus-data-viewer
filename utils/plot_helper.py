@@ -356,8 +356,8 @@ def create_line_plot(depth_data, subject, Overlay:str, contrast:str, vessel_mask
                 size=22),
         xaxis = dict(
                 tickmode = 'array',
-                tickvals = [4,9,20,29],
-                ticktext = ["SRLM","Inner","GM","Outer"],
+                tickvals = [9,20,29],
+                ticktext = ["Inner","GM","Outer"],
                 range = [0,30] 
                 ),
         yaxis = dict(

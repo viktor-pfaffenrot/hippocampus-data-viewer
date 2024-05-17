@@ -162,7 +162,7 @@ def load_depth_data(datpath: str):
                         "Subject": subject,
                         "dSbreathhold": dSbreathhold,
                         "dSbreathhold_weighted": dSbreathhold_weighted,
-                        "T2s": (1 / T2s) * 1000,
+                        "T2s": T2s,
                         }
     
                     df_list.append(out)
